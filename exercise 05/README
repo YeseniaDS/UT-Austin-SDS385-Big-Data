@@ -1,4 +1,4 @@
 http://rpubs.com/leexiner/bigdata-exercise05
 
-The following code includes the computaion of Leave-one-out Cross Validation MOOSE and compares it with Mallows' Cp.
+The following code includes the computaion of Leave-one-out Cross Validation MOOSE and compares the best lambda that has smallest MOOSE with Mallows' Cp.
 http://rpubs.com/leexiner/bigdata-exercise05-updated
