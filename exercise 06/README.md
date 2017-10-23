@@ -7,6 +7,7 @@ The following code includes the computaion of Leave-one-out Cross Validation 'MO
 # Data source:
 - https://github.com/Cindy-UTSDS/SDS385/tree/master/data
 
+# The proximal gradient method
 The culmination of the first four exercises was stochastic gradient descent, which is one of the core algorithms that powers modern data science. Over the next few sets of exercises, we will build up to two other such core algorithms: the proximal gradient method, and ADMM, which stands for the alternating direction method of multipliers. These algorithms are broadly useful for optimizing objective functions f(x) in statistics that have either or both of the following two features:
 
 - f(x) is a sum of two terms, one of which measures fit to the data, and the other of which penalizes model complexity.
