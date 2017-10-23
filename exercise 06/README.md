@@ -7,12 +7,13 @@ The following code includes the computaion of Leave-one-out Cross Validation 'MO
 # Data source:
 - https://github.com/Cindy-UTSDS/SDS385/tree/master/data
 
-# The proximal gradient method
-The culmination of the first four exercises was stochastic gradient descent, which is one of the core algorithms that powers modern data science. Over the next few sets of exercises, we will build up to two other such core algorithms: the proximal gradient method, and ADMM, which stands for the alternating direction method of multipliers. These algorithms are broadly useful for optimizing objective functions f(x) in statistics that have either or both of the following two features:
+# Sparisty
+In many problems, we wish to impose sparsity on the parameters of a statistical model -- that is, the assumption that some parameters are zero. In this set of exercises, we will learn a few basic ideas that are important for thinking about sparse statistical models at scale.
 
-- f(x) is a sum of two terms, one of which measures fit to the data, and the other of which penalizes model complexity.
-- f(x) is not everywhere smooth, so that we cannot assume derivatives exist.
+After reading Chapter 3.4 of The Elements of Statistical Learning, we have the following key things:
 
-Both features come up in problems where we wish to impose sparsity on a parameter in a statistical model (i.e. the lasso of the previous exercises).
+- the lasso
+- the idea of the lasso solution path (Figure 3.10)
+- the degrees of freedom for the lasso (page 77)
 
-In this set of exercises, we begin our study of scalable algorithms that can handle sparsity, with the proximal gradient method.
+Note that we will work the lasso objective in "Lagrangian form" (Equation 3.52). 
