@@ -5,3 +5,6 @@ For basic concepts in convex optimization used in this paper, some useful backgr
 
 # Exercises
 The assignment is simple: implement ADMM for fitting the lasso regression model, and compare it to the proximal gradient implementation from exercise06. The application of ADMM to the lasso model is described in Section 6.4 of the Boyd et. al. paper.
+
+# Output of R Code
+http://rpubs.com/leexiner/bigdata-exercise07
