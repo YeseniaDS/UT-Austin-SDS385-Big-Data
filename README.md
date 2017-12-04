@@ -8,4 +8,4 @@ SDS 385: Statistical Models for Big Data
 - exercise 05: LASSO and Soft Thresholding
 - exercise 06: LASSO Using Proximal Gradient Descent
 - exercise 07: LASSO Using ADMM
-- exercise 08: Spatial Smoothing
+- exercise 08: Spatial Smoothing at Scale
