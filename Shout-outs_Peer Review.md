@@ -1,6 +1,7 @@
 ### "Shout-outs" to Folks Who Have Helped Me Learn Throughout Fall Semester of 2017
 
 Yanxin Li
+
 Dec 12, 2017
 
 The course Statistical Methods for Big Data (SDS383) is very useful though it is a bit difficult for me. It encourages me to explore the optimization technique and coding methods. Through this process, I have learned a lot from my classmates. 
