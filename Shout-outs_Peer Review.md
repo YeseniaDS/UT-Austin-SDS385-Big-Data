@@ -12,6 +12,6 @@ The course Statistical Methods for Big Data (SDS383) is very useful though it is
 
 > **Bowen’s** presentations on ADMM and spatial smoothing were great. His interpretation was key to my understanding on each of those topics. I am not really familiar with Python. However, the way Bowen used to show his results in Jupyter Notebook was concise and self-explanatory. I will refer to his code learning Python. 
 
-? **Mauricio’s** presentation on Linear Regression was very impressive and the pattern that he used to write up the solution in his GitHub page is a great way to show his results, which I will adopt in my future write-ups. His presentation always included some explanatory comments, which made me understand the concepts covered easily. When I did exercises02, he also explained to me the basic mathematical techniques behind Gradient and Stochastic Gradient Descent. 
+> **Mauricio’s** presentation on Linear Regression was very impressive and the pattern that he used to write up the solution in his GitHub page is a great way to show his results, which I will adopt in my future write-ups. His presentation always included some explanatory comments, which made me understand the concepts covered easily. When I did exercises02, he also explained to me the basic mathematical techniques behind Gradient and Stochastic Gradient Descent. 
 
 I am really thankful for those I mentioned above, who helped me a lot to improve myself. I hope I was able to reciprocate in turn when they looked to me.
