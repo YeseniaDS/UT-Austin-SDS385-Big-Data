@@ -50,3 +50,6 @@ The dataset can be downloaded from the following link:
 - **MNIST**: http://yann.lecun.com/exdb/mnist/
 
 - **notMNIST**: http://yaroslavvb.com/upload/notMNIST/
+
+## Shout-outs
+A big thank you to Professor James Scott who helped us with the optimization of the Neural Networks and taught a great class this semester.
