@@ -7,7 +7,7 @@ Department of Statistics and Data Sciences
 Operations Research and Industrial Engineering
 
 
-This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin. The project is published in RPubs with the link as follows:
+**This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin. The project is published in RPubs with the link as follows:**
 
 - http://rpubs.com/leexiner/bigdata-final-project
 
@@ -47,6 +47,6 @@ Return,
 
 The dataset can be downloaded from the following link: 
 
-- MNIST: http://yann.lecun.com/exdb/mnist/
+- **MNIST**: http://yann.lecun.com/exdb/mnist/
 
-- notMNIST: http://yaroslavvb.com/upload/notMNIST/
+- **notMNIST**: http://yaroslavvb.com/upload/notMNIST/
