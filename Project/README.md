@@ -45,5 +45,8 @@ Return,
 
 ## Dataset
 
-MNIST: http://yann.lecun.com/exdb/mnist/
-notMNIST: http://yaroslavvb.com/upload/notMNIST/
+The dataset can be downloaded from the following link: 
+
+- MNIST: http://yann.lecun.com/exdb/mnist/
+
+- notMNIST: http://yaroslavvb.com/upload/notMNIST/
