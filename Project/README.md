@@ -19,7 +19,7 @@ Operations Research and Industrial Engineering
 - The dimension and initial choices for the weights and biases depends on the design choice and must be decided by the user.
 
 - The function is:
-Neural\_network(X, y, weight, bias, step\_size,  activation)
+````Neural\_network(X, y, weight, bias, step\_size,  activation)````
 
 Where,
 
