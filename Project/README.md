@@ -11,6 +11,8 @@ Operations Research and Industrial Engineering
 
 - http://rpubs.com/leexiner/bigdata-final-project
 
+**For readers with time constraints, we recommend going through the Abstract, Introduction, Discussion, and Results of the report.**
+
 ##  Introduction
 - We adopted a step-wise approach and started with SoftMax regression on dataset with 10 classes and then extended the work to accommodate multiple layers.
 
