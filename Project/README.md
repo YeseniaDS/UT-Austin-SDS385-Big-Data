@@ -1,11 +1,11 @@
-#### To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
+## To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
 
-##### Ashutosh Singh         Operations Research and Industrial Engineering
-##### Yanxin Li              Department of Statistics and Data Sciences
+##### Ashutosh Singh    \\     Operations Research and Industrial Engineering
+##### Yanxin Li          \\    Department of Statistics and Data Sciences
 
 This is our final project for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin.
 
-####  Introduction
+##  Introduction
 - We adopted a step-wise approach and started with SoftMax regression on dataset with 1010 classes and then extended the work to accommodate multiple layers.
 
 - We studied the mathematics associated with backpropagation and programmed a function that can take in a list of predictors, weights and biases and returns cross-entropy loss, modified weights and modified biases.
@@ -35,6 +35,6 @@ Return,
 - We wrote a feed function to provide mini batches to the loop.
 - The data was used after PCA transformation and dropping unimportant predictors.
 - We programmed our function using **MNIST** data set and we cross checked the function by fitting various Neural Networks configurations on different models.
-- mWe have presented the work for one such dataset, called **notMNIST**. The dataset is like MNIST with 10 classes of English alphabets from A to J.
+- We have presented the work for one such dataset, called **notMNIST**. The dataset is like MNIST with 10 classes of English alphabets from A to J.
 
 
