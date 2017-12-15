@@ -1,7 +1,9 @@
 ## To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
 
-##### Ashutosh Singh    \\     Operations Research and Industrial Engineering
-##### Yanxin Li          \\    Department of Statistics and Data Sciences
+##### Ashutosh Singh  
+Operations Research and Industrial Engineering
+##### Yanxin Li        
+Department of Statistics and Data Sciences
 
 This is our final project for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin.
 
@@ -37,4 +39,7 @@ Return,
 - We programmed our function using **MNIST** data set and we cross checked the function by fitting various Neural Networks configurations on different models.
 - We have presented the work for one such dataset, called **notMNIST**. The dataset is like MNIST with 10 classes of English alphabets from A to J.
 
+## Dataset
 
+MNIST: http://yann.lecun.com/exdb/mnist/
+notMNIST: http://yaroslavvb.com/upload/notMNIST/
