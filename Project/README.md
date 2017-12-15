@@ -1,11 +1,12 @@
 ## To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
 
-##### Ashutosh Singh  
+### Ashutosh Singh  
 Operations Research and Industrial Engineering
-##### Yanxin Li        
+### Yanxin Li        
 Department of Statistics and Data Sciences
 
-This is our final project for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin.
+This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin. The project is published in RPubs with the link as follows:
+http://rpubs.com/leexiner/bigdata-final-project
 
 ##  Introduction
 - We adopted a step-wise approach and started with SoftMax regression on dataset with 1010 classes and then extended the work to accommodate multiple layers.
