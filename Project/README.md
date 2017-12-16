@@ -7,7 +7,7 @@ Department of Statistics and Data Sciences
 Operations Research and Industrial Engineering
 
 
-**This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class [SDS 385: Statistical Models for Big Data](https://github.com/jgscott/SDS385) taught by [Professor James Scott](http://jgscott.github.io/). The project is published in RPubs with the link http://rpubs.com/leexiner/bigdata-final-project.**
+**This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class [SDS 385: Statistical Models for Big Data](https://github.com/jgscott/SDS385) taught by [Professor James Scott](http://jgscott.github.io/). The project has been published in RPubs with the link http://rpubs.com/leexiner/bigdata-final-project.**
 
 **Impementation and results of the Python code can be found in the folder: ````MNIST.ipynb````, ````NotMNIST.ipynb````, and ````Softmax_regression.ipynb````.**
 
