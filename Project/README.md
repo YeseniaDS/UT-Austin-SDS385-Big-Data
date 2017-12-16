@@ -1,4 +1,4 @@
-## To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
+# To Study Implementation of Gradient Descent for Multi-class Classification Using a SoftMax Regression and Neural Networks
 
 ### Yanxin Li        
 Department of Statistics and Data Sciences
