@@ -1,2 +1,3 @@
-# BigData
-SDS 385: Statistical Models for Big Data
+# Code
+
+All the code credit to Ashutosh Singh.
