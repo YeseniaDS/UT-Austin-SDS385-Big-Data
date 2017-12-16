@@ -9,7 +9,7 @@ Operations Research and Industrial Engineering
 
 **This is our final [project](http://rpubs.com/leexiner/bigdata-final-project) for the Fall 2017 class SDS 385: Statistical Models for Big Data taught by Professor James Scott at the University of Texas at Austin. The project is published in RPubs with the link http://rpubs.com/leexiner/bigdata-final-project.**
 
-**Impementation of the Python code can be found in this folder**
+**Impementation and results of the Python code can be found in the folder:````MNIST.ipynb````, ````NotMNIST.ipynb````, and ````Softmax_regression.ipynb````.**
 
 **_For readers with time constraints, we recommend going through the Abstract, Introduction, Discussion, and Results of the report._**
 
